@@ -107,7 +107,7 @@ public class CyrToLatConverter {
                     return "z";// з
                 case '\u0439':
                 case '\u0438':
-                    return "i";// и й
+                    return "ı";// и й
                 case '\u043A':
                     return "k";// к
                 case '\u043B':
